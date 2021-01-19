@@ -1,0 +1,19 @@
+Bastian Bias - 
+    Key(s) = 5099, 11219
+    Modulus = 24797
+
+Eric Argueta -
+    Key(s) = 8703
+    Modulus = 43357
+
+Hunter Keys -
+    Key(s) = 1877, 5327
+    Modulus = 20989
+
+Jaykob De Lima - 
+    Key(s) = 2033
+    Modulus = 29737
+
+Mrs. Carter -
+    Key(s) = 25855
+    Modulus = 52891
